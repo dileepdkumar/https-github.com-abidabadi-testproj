@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;  
 import javax.swing.*;  
 
-#import org.apache.log4j.Logger;
+/*import org.apache.log4j.Logger;*/
 
 import java.io.*;
 import java.sql.SQLException;
